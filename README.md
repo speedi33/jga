@@ -1,4 +1,4 @@
-# Hövel JGA
+# JGA
 
 Web-App für den Junggesellenabschied mit Bar Wheel und Task Wheel.
 
